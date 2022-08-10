@@ -1,0 +1,403 @@
+h4 {
+    font-family: 'Frank Ruhl Libre', serif;
+    font-size: 70px;
+    font-weight: 900;
+    line-height: 83px;
+    letter-spacing: 0em;
+    color: #000000;
+    text-align: center;
+}
+
+/*  nav section start  */
+.navrbar {
+    background-color: #EEDDCC;
+
+}
+
+.navbar-toggler-icon {
+    background-image: url(./main-qimg-974457ab905f9cbee7801f96837984ce-removebg-preview.png);
+}
+
+.a-text {
+    color: #34251F;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.brand-name {
+    font-family: Lato;
+    font-size: 36px;
+    font-weight: 900;
+    line-height: 43px;
+    letter-spacing: 0.15em;
+    text-align: left;
+    color: #472619;
+}
+
+.fa-envelope-open {
+    margin-top: 15px;
+    color: #34251F;
+}
+
+.btn {
+    color: #34251F;
+    font-weight: bold;
+    font-size: 15px;
+    border: 1px solid #34251F;
+    border-radius: 5px;
+}
+
+/* nav section end   */
+
+
+/* about section start  */
+.about {
+    background-color: #EEDDCC;
+    background-image: url(./Vector.png);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: left top;
+}
+
+.headline {
+    left: 169px;
+    top: 248px;
+    font-family: 'Frank Ruhl Libre';
+    font-style: normal;
+    font-size: 64px;
+    text-transform: capitalize;
+    color: #34251F;
+}
+
+.left-content {
+    background-image: url(./Vector.png);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+}
+
+.left-content img {
+    width: 100%;
+    /* margin-left: 44px; */
+    height: 100%;
+    background-image: url(./Vector.png);
+    background-repeat: no-repeat;
+    background-position: right top;
+
+
+}
+
+/* about section end */
+
+/* Collection section start */
+.collection {
+    background-image: url(./Vector.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
+
+
+.collection-sub-head {
+
+    font-family: 'Frank Ruhl Libre', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    text-transform: capitalize;
+    color: #000000;
+    text-align: center;
+}
+
+.swter {
+    margin-left: 140px;
+    margin-top: 80%;
+    width: 113px;
+}
+
+/* Collection section end */
+
+/* shop-history section start */
+
+.shop-history {
+    background-image: url(./Vector.png);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-color: #CDCDCD;
+    
+}
+
+.history-head {
+    width: 402px;
+    height: 166px;
+    left: 778px;
+    top: 1780px;
+    font-family: 'Frank Ruhl Libre', serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 83px;
+    text-transform: capitalize;
+    color: #000000;
+}
+
+.history-subhead {
+    width: 450px;
+    text-align: justify;
+    top: 1967px;
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000;
+}
+
+.Shop-Review {
+    display: flex;
+    width: 35%;
+    position: absolute;
+    margin-top: 40%;
+    background-color: #D2B79E;
+    height: 122px;
+    left: 450px;
+    box-shadow: 15px 20px 30px rgba(0, 0, 0, 0.3);
+    border-radius: 3px;
+
+}
+
+.Shop-Review h3 {
+    font-weight: bolder;
+    font-size: 30px;
+    color: #000000;
+    font-family: 'Frank Ruhl Libre', serif;
+}
+
+.Founded {
+    padding-top: 30px;
+    padding-right: 15px;
+    margin-left: 20px;
+    font-weight: 500;
+    font-size: 18px;
+    color: #000000;
+    font-family: 'Frank Ruhl Libre', serif;
+    border-right: 2px solid black;
+
+}
+
+.sold {
+    padding-top: 30px;
+    padding-right: 15px;
+    margin-left: 20px;
+    font-weight: 500;
+    font-size: 18px;
+    color: #000000;
+    font-family: 'Frank Ruhl Libre', serif;
+    border-right: 2px solid black;
+}
+
+
+.review {
+    padding-top: 30px;
+    margin-left: 20px;
+    font-weight: 500;
+    font-size: 18px;
+    color: #000000;
+    font-family: 'Frank Ruhl Libre', serif;
+
+
+}
+
+/* shop-history section end */
+
+/* seller product section start */
+.seller-product {
+    background-color: #2C1915;
+    padding-bottom: 40px;
+}
+
+.text-area {
+    /* margin-left: 110px; */
+    padding-bottom: 20px;
+    width: 490px;
+
+}
+
+.seller-head {
+    font-size: 60px;
+    font-family: 'Frank Ruhl Libre', serif;
+    font-weight: 700;
+}
+
+.seller-subhead {
+    font-size: 13px;
+    margin-right: 100px;
+    text-align: justify;
+}
+
+.img-area {
+    margin-top: 30px;
+}
+
+.cut-img {
+    height: 206px;
+}
+
+.cross {
+    text-decoration-line: line-through;
+}
+
+/* seller product section start */
+
+
+/* production section start */
+
+.production{
+    
+}
+.production-head,
+.production-item {
+    text-align: center;
+    justify-content: center;
+}
+
+.img-back{
+    background-image: url(./Vector.png);
+   background-repeat: no-repeat;
+    background-position: right top;
+   
+   
+    
+}
+
+/* production section end  */
+
+
+/* deal section start */
+.Deal {
+    background-color: #8B6E5A;
+    margin-top: 11rem;
+    
+}
+
+.Deal h5{
+    padding-top: 90px;
+    font-size: 65px;
+    color: #000000;
+    font-family:'Frank Ruhl Libre', serif;
+    font-weight: 900;
+    display: block;
+}
+
+.Deal p{
+    color: #000000;
+    font-weight: 500;
+}
+
+.right-content-text .count {
+    margin-top: 50px;
+    display: flex;
+    grid-gap:15px;
+}
+
+
+.day {
+    border: 2px solid black;
+    background-color: #884F42;
+    height: 70px;
+    width: 80px;
+    text-align: center;  
+}
+.day h6 {
+    font-size: 25px;
+    font-weight: 700;
+    color: #000000;
+}
+.day p {
+    font-size: 12px;
+    color: #000000;
+}
+
+
+.hours {
+    border: 2px solid black;
+    background-color: #884F42;
+    height: 70px;
+    width: 80px;
+    text-align: center;
+}
+
+
+.hours h6 {
+    font-size: 25px;
+    font-weight: 700;
+    color: #000000;
+}
+.hours p {
+    font-size: 12px;
+    color: #000000;
+}
+
+.minute {
+    border: 2px solid black;
+    background-color: #884F42;
+    height: 70px;
+    width: 80px;  
+    text-align: center;
+}
+.minute h6 {
+    font-size: 25px;
+    font-weight: 700;
+    color: #000000;
+}
+.minute p {
+    font-size: 12px;
+    color: #000000;
+}
+
+
+.left-content-img img{ 
+    padding-left: 85px;
+    margin-top: -80px;
+    margin-bottom: 0px;
+    width: 95%;
+}
+/* deal section end  */
+
+
+/* footer img section start  */
+/* footer img section end */
+
+
+/* .footer section start */
+.footer{
+    background-color:  #412F28;
+
+}
+.list {
+    
+    display: flex;
+    grid-gap:25px;
+    justify-content: center;
+}
+
+.list .list-item{
+    padding-top: 45px;
+    list-style-type: none;
+    color: white;
+    font-weight: 700;
+}
+
+.copy-right{
+    font-size: 12px;
+}
+
+.insta{
+    background-color: red;
+    border: 2px solid black;
+    
+}
+.footer-img{
+    position: sticky;
+}
+
+/* .footer section end */
